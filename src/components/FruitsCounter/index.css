@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffd569;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+}
+.container {
+  background-color: #ffffff;
+  margin-left: 40px;
+  margin-right: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 10px;
+}
+.heading {
+  color: #000000;
+}
+.span {
+  color: #ffd569;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.img-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin: 10px;
+}
+.mango-img {
+  width: 150px;
+  height: 150px;
+}
+.banana-img {
+  width: 150px;
+  height: 150px;
+}
+
+.button {
+  background-color: #007bff;
+  border-width: 0px;
+  color: #ffffff;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 5px;
+}
